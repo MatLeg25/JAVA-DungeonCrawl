@@ -1,0 +1,5 @@
+.idea
+target
+dungeon-crawl.iml
+**/DB-credentials.txt
+src/main/resources/DB-credentials.txt
